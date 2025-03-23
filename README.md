@@ -1,5 +1,5 @@
 ## 🚀 Master SQL with Our Course!  
-Want to level up your SQL skills? Our **SQL Fundamentals and PostgreSQL Course** covers everything from basics to advanced queries.  
+Want to level up your SQL skills? Our **SQL Fundamentals Course** covers everything from basics to advanced queries.  
 
 ---
 
