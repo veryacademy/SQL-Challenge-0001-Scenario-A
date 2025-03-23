@@ -57,6 +57,6 @@ Write a query to return only the active products from this table.
 ---
 
 ## 📌 Dont Forget  
-You only need to setup the database once for all of the other challenges that are part of Scenario A (See challenge name). Every scenario uses slightly differnet data so to better accomodate the data returned in the challenge.   
+You only need to set up the database once for all challenges in Scenario A (see challenge name). Each scenario uses slightly different data, tailored to match the specific challenge requirements.  
 
 ---
