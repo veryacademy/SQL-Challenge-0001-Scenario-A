@@ -55,3 +55,8 @@ Write a query to return only the active products from this table.
 3. 💡 Need help? Check out the **[`solutions.sql`](solutions.sql)** file.  
 
 ---
+
+## 📌 Dont Forget  
+You only need to setup the database once for all of the other challenges that are part of Scenario A (See challenge name). Every scenario uses slightly differnet data so to better accomodate the data returned in the challenge.   
+
+---
