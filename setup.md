@@ -3,7 +3,7 @@
 Follow these steps to set up and start your PostgreSQL environment using Docker.  
 
 ## 1️⃣ Start Docker Desktop  
-Ensure that **Docker Desktop** is running on your machine before proceeding.  
+Ensure that **Docker Desktop** is running on your machine before proceeding. Then download the code from this code repository.
 
 ## 2️⃣ Create Docker Images and Containers  
 Run the following command to build and start the containers in **detached mode (-d)**:  
