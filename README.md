@@ -1,11 +1,15 @@
 ## 🚀 Master SQL with Our Course!  
 Want to level up your SQL skills? Our **SQL Fundamentals and PostgreSQL Course** covers everything from basics to advanced queries.  
 
+---
+
 🔥 **Join the Udemy Course today and start learning!**  
 📌 [Click here to enroll now!](https://www.udemy.com/course/sql-fundamentals-postgresql/?referralCode=3ADAD1B84D5002E61B22)  
 
-🔥 **Alturnatively watch this and many more on YouTube!** 
+🔥 **Alturnatively watch this and many more on YouTube!**
 📌 [Click to access our YouTube Channel!](https://www.youtube.com/veryacademy)  
+
+---
 
 # 🚀 Challenge: Retrieve All Active Products  
 
