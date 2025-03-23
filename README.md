@@ -42,6 +42,14 @@ Here’s an example of the `products` table _(The actual data can be found in `i
 
 ---
 
+# 📌 Entity-Relationship Diagram (ERD)
+
+You can view the database ERD here:  
+
+🔗 [Lucidchart ERD](https://lucid.app/lucidchart/90664290-7d25-4076-825a-b719f04140f2/edit?viewport_loc=-4160%2C1399%2C2107%2C1076%2C0_0&invitationId=inv_cb44d210-28fb-4ad3-b952-1af4af42f529)  
+
+---
+
 ## 🤔 Try It Yourself  
 Write a query to return only the active products from this table.  
 
