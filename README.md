@@ -1,8 +1,6 @@
 ## 🚀 Master SQL with Our Course!  
 Want to level up your SQL skills? Our **SQL Fundamentals Course** covers everything from basics to advanced queries.  
 
----
-
 🔥 **Join the Udemy Course today and start learning!**  
 📌 [Click here to enroll now!](https://www.udemy.com/course/sql-fundamentals-postgresql/?referralCode=3ADAD1B84D5002E61B22)  
 
