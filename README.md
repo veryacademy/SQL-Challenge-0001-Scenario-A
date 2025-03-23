@@ -42,7 +42,7 @@ Here’s an example of the `products` table _(The actual data can be found in `i
 
 ---
 
-# 📌 Entity-Relationship Diagram (ERD)
+## 📌 Entity-Relationship Diagram (ERD)
 
 You can view the database ERD here:  
 
