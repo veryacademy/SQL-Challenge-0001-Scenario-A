@@ -62,3 +62,8 @@ Write a query to return only the active products from this table.
 You only need to set up the database once for all challenges in Scenario A (see challenge name). Each scenario uses slightly different data, tailored to match the specific challenge requirements.  
 
 ---
+
+## 🚀 Next Challenge:  
+[SQL-Challenge-0002-Scenario-A](https://github.com/veryacademy/SQL-Challenge-0002-Scenario-A) 
+
+---
